@@ -7,10 +7,10 @@
 1. Вёрстка и программирование макетов, очень похожих на [rarible.com](https://rarible.com), для MVP. 
 ![design](images/design.png)
 ![design2](images/design2.png)
-2. Правки и доработки фронта после запуска, например возможность загружать не только картинки, но и аудио
-3. Вторая версия сайта
+2. Правки и доработки фронта после запуска в начале 2022 года
+3. Полная переработка сайта для второй версии
 
-## Стек фронтэнда
+`## Стек фронтэнда
 - [react](https://github.com/facebook/react)
 - [ipfs](https://github.com/ipfs/js-ipfs) для загрузки файлов в IPFS
 - [ton-client-js](https://github.com/tonlabs/ton-client-js) для взаимодействия с блокчейном Everscale
